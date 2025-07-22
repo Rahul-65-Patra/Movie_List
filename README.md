@@ -22,7 +22,11 @@ A simple movie list app using React where users can:
 - 📋 List rendering with `map`  
 - 🖱️ Event handling  
 - 💾 LocalStorage persistence  
-- 🎨 Basic Tailwindcss styling  
+- 🎨 Basic Tailwindcss styling
+
+## 🔗 Live Preview
+
+You can view the live preview of the project : [🚀 Live Demo](https://movie-list-five-eta.vercel.app/)
 
 ## 💻 Tech Stack
 
