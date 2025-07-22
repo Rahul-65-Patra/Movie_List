@@ -1,21 +1,18 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 export default function AddMovieForm({ onAddMovie }) {
-  const [title, setTitle] = useState('');
+  const [title, setTitle] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (title.trim()) {
       onAddMovie(title);
-      setTitle('');
+      setTitle("");
     }
   };
 
   return (
-    <form
-      onSubmit={handleSubmit}
-      className="flex items-center gap-4 mb-6"
-    >
+    <form onSubmit={handleSubmit} className="flex items-center gap-4 mb-6">
       <input
         type="text"
         placeholder="Movie Title"
@@ -26,7 +23,7 @@ export default function AddMovieForm({ onAddMovie }) {
       />
       <button
         type="submit"
-        className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
+        className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition cursor-pointer"
       >
         Add Movie
       </button>

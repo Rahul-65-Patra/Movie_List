@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
-import MovieList from './components/MovieList';
-import FavoriteList from './components/FavoriteList';
-import AddMovieForm from './components/AddMovieForm';
+import React, { useState, useEffect } from "react";
+import MovieList from "./components/MovieList";
+import FavoriteList from "./components/FavoriteList";
+import AddMovieForm from "./components/AddMovieForm";
 
 const initialMovies = [
   { id: 1, title: "Inception", favorite: false },
@@ -15,7 +15,7 @@ export default function App() {
     return stored ? JSON.parse(stored) : initialMovies;
   });
 
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
     localStorage.setItem("movies", JSON.stringify(movies));
@@ -23,35 +23,37 @@ export default function App() {
 
   const addMovie = (title) => {
     const newMovie = { id: Date.now(), title, favorite: false };
-    setMovies(prev => [...prev, newMovie]);
+    setMovies((prev) => [...prev, newMovie]);
   };
 
   const toggleFavorite = (id) => {
-    setMovies(prev =>
-      prev.map(movie =>
+    setMovies((prev) =>
+      prev.map((movie) =>
         movie.id === id ? { ...movie, favorite: !movie.favorite } : movie
       )
     );
   };
 
   const deleteMovie = (id) => {
-    setMovies(prev => prev.filter(movie => movie.id !== id));
+    setMovies((prev) => prev.filter((movie) => movie.id !== id));
   };
 
   const clearFavorites = () => {
-    setMovies(prev => prev.map(movie => ({ ...movie, favorite: false })));
+    setMovies((prev) => prev.map((movie) => ({ ...movie, favorite: false })));
   };
 
-  const filteredMovies = movies.filter(movie =>
+  const filteredMovies = movies.filter((movie) =>
     movie.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
-  const favoriteMovies = movies.filter(movie => movie.favorite);
+  const favoriteMovies = movies.filter((movie) => movie.favorite);
 
   return (
     <div className="min-h-screen bg-gray-100 py-10 px-4">
       <div className="max-w-3xl mx-auto bg-white p-6 rounded-lg shadow-md">
-        <h1 className="text-3xl font-bold mb-6 text-center text-blue-600">🎬 Movie List App</h1>
+        <h1 className="text-3xl font-bold mb-6 text-center text-blue-600">
+          🎬 Movie List App
+        </h1>
 
         <AddMovieForm onAddMovie={addMovie} />
 

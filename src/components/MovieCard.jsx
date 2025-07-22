@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default function MovieCard({ movie, onToggleFavorite, onDeleteMovie }) {
   return (
@@ -7,17 +7,17 @@ export default function MovieCard({ movie, onToggleFavorite, onDeleteMovie }) {
       <div className="flex space-x-2">
         <button
           onClick={() => onToggleFavorite(movie.id)}
-          className={`px-3 py-1 rounded font-semibold text-sm ${
+          className={`px-3 py-1 rounded font-semibold text-sm cursor-pointer ${
             movie.favorite
-              ? 'bg-yellow-400 text-white hover:bg-yellow-500'
-              : 'bg-gray-300 text-black hover:bg-gray-400'
+              ? "bg-yellow-400 text-white hover:bg-yellow-500 "
+              : "bg-gray-300 text-black hover:bg-gray-400"
           }`}
         >
-          {movie.favorite ? '★ Unfavorite' : '☆ Favorite'}
+          {movie.favorite ? "★ Unfavorite" : "☆ Favorite"}
         </button>
         <button
           onClick={() => onDeleteMovie(movie.id)}
-          className="px-3 py-1 rounded bg-red-500 text-white hover:bg-red-600 font-semibold text-sm"
+          className="px-3 py-1 rounded bg-red-500 text-white hover:bg-red-600 font-semibold text-sm cursor-pointer"
         >
           🗑 Delete
         </button>
