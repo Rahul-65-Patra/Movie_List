@@ -1,0 +1,592 @@
+[
+  {
+    "id": 1,
+    "title": "Pather Panchali",
+    "favorite": false
+  },
+  {
+    "id": 2,
+    "title": "Charulata",
+    "favorite": false
+  },
+  {
+    "id": 3,
+    "title": "Nayak",
+    "favorite": false
+  },
+  {
+    "id": 4,
+    "title": "Chokher Bali",
+    "favorite": false
+  },
+  {
+    "id": 5,
+    "title": "Autograph",
+    "favorite": false
+  },
+  {
+    "id": 6,
+    "title": "Bela Seshe",
+    "favorite": false
+  },
+  {
+    "id": 7,
+    "title": "Hemlock Society",
+    "favorite": false
+  },
+  {
+    "id": 8,
+    "title": "Kahaani",
+    "favorite": false
+  },
+  {
+    "id": 9,
+    "title": "Bhooter Bhabishyat",
+    "favorite": false
+  },
+  {
+    "id": 10,
+    "title": "Parineeta",
+    "favorite": false
+  },
+  {
+    "id": 11,
+    "title": "Dutta vs Dutta",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 12,
+    "title": "Aparajito",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 13,
+    "title": "Shob Charitro Kalponik",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 14,
+    "title": "Jaatishwar",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 15,
+    "title": "Baishe Srabon",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 16,
+    "title": "Feluda",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 17,
+    "title": "Ghare Baire",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 18,
+    "title": "Moner Manush",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 19,
+    "title": "Chander Pahar",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 20,
+    "title": "Amazon Obhijaan",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 21,
+    "title": "3 Idiots",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 22,
+    "title": "Lagaan",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 23,
+    "title": "Dangal",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 24,
+    "title": "PK",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 25,
+    "title": "Taare Zameen Par",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 26,
+    "title": "Zindagi Na Milegi Dobara",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 27,
+    "title": "Barfi!",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 28,
+    "title": "Queen",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 29,
+    "title": "Article 15",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 30,
+    "title": "Piku",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 31,
+    "title": "Kahaani",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 32,
+    "title": "Bajrangi Bhaijaan",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 33,
+    "title": "Andhadhun",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 34,
+    "title": "Drishyam",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 35,
+    "title": "Gully Boy",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 36,
+    "title": "Badhaai Ho",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 37,
+    "title": "Raazi",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 38,
+    "title": "Chhichhore",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 39,
+    "title": "Super 30",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 40,
+    "title": "MS Dhoni: The Untold Story",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 41,
+    "title": "Inception",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 42,
+    "title": "Interstellar",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 43,
+    "title": "The Dark Knight",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 44,
+    "title": "The Shawshank Redemption",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 45,
+    "title": "Fight Club",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 46,
+    "title": "The Godfather",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 47,
+    "title": "The Matrix",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 48,
+    "title": "Pulp Fiction",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 49,
+    "title": "Forrest Gump",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 50,
+    "title": "Gladiator",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 51,
+    "title": "Titanic",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 52,
+    "title": "Avatar",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 53,
+    "title": "Avengers: Endgame",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 54,
+    "title": "Iron Man",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 55,
+    "title": "Doctor Strange",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 56,
+    "title": "Spider-Man: No Way Home",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 57,
+    "title": "The Prestige",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 58,
+    "title": "Whiplash",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 59,
+    "title": "Joker",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 60,
+    "title": "Oppenheimer",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 61,
+    "title": "Kanchanjangha",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 62,
+    "title": "Shonar Pahar",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 63,
+    "title": "Dhananjay",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 64,
+    "title": "Nagarkirtan",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 65,
+    "title": "Drishtikone",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 66,
+    "title": "Mukherjee Dar Bou",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 67,
+    "title": "Vinci Da",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 68,
+    "title": "Asur",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 69,
+    "title": "Sahaj Paather Gappo",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 70,
+    "title": "Robibar",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 71,
+    "title": "Padmaavat",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 72,
+    "title": "Brahmastra",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 73,
+    "title": "Shershaah",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 74,
+    "title": "RRR",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 75,
+    "title": "Pathaan",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 76,
+    "title": "Darlings",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 77,
+    "title": "Rocky Aur Rani",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 78,
+    "title": "Jawan",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 79,
+    "title": "Satyaprem Ki Katha",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 80,
+    "title": "Bheed",
+    "language": "Hindi",
+    "favorite": false
+  },
+  {
+    "id": 81,
+    "title": "The Revenant",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 82,
+    "title": "The Social Network",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 83,
+    "title": "The Imitation Game",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 84,
+    "title": "12 Angry Men",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 85,
+    "title": "Dunkirk",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 86,
+    "title": "Tenet",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 87,
+    "title": "1917",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 88,
+    "title": "Everything Everywhere All at Once",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 89,
+    "title": "The Whale",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 90,
+    "title": "Past Lives",
+    "language": "English",
+    "favorite": false
+  },
+  {
+    "id": 91,
+    "title": "Belaseshe",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 92,
+    "title": "Tonic",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 93,
+    "title": "Projapoti",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 94,
+    "title": "Hridpindo",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 95,
+    "title": "Maacher Jhol",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 96,
+    "title": "Kaberi Antardhan",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 97,
+    "title": "Bidaay Byomkesh",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 98,
+    "title": "Detective",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 99,
+    "title": "Rawkto Rawhoshyo",
+    "language": "Bengali",
+    "favorite": false
+  },
+  {
+    "id": 100,
+    "title": "Mukhomukhi",
+    "language": "Bengali",
+    "favorite": false
+  }
+]
